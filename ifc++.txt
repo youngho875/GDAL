@@ -1,0 +1,25 @@
+ifc++
+
+fyba : https://github.com/kartverket/fyba.git
+
+libheif : https://github.com/strukturag/libheif.git
+
+qb3 : https://github.com/lucianpls/QB3.git
+
+cgal :  https://github.com/CGAL/cgal/archive/v6.1.1.tar.gz
+
+gtest :  https://github.com/google/googletest/archive/v1.17.0.tar.gz
+
+muparser :  https://github.com/beltoforion/muparser/archive/v2.3.5.tar.gz
+
+ poppler : https://gitlab.freedesktop.org/poppler/poppler/-/archive/poppler-25.07.0/poppler-poppler-25.07.0.tar.gz
+
+OpenDrive : https://github.com/pageldev/libOpenDRIVE.git
+ xodr
+
+sfcgal :  https://gitlab.com/sfcgal/SFCGAL/-/archive/v2.2.0/SFCGAL-v2.2.0.tar.gz
+
+openblas
+lapack
+
+vcpkg install exprtk:x64-windows muparser:x64-windows poppler:x64-windows gtest:x64-windows sfcgal:x64-windows
