@@ -1,1 +1,268 @@
-
+atl:x64-windows                                   0#1                 A stub package that ensures Visual Studio has Ac...
+ayush272002-dotenv:x64-windows                    1.0.2               A modern C++23 header-only library for loading a...
+basisu:x64-windows                                2.1.0               Basis Universal is a supercompressed GPU texture...
+blas:x64-windows                                  2023-04-14#5        Metapackage for packages which provide BLAS
+blosc2:x64-windows                                2.23.1              A fast, compressed, persistent binary data store...
+blosc2[zlib]:x64-windows                                              Support zlib compression
+blosc2[zstd]:x64-windows                                              Support zstd compression
+blosc:x64-windows                                 1.21.6              A blocking, shuffling and loss-less compression ...
+boost-accumulators:x64-windows                    1.90.0#1            Boost accumulators module
+boost-algorithm:x64-windows                       1.90.0#1            Boost algorithm module
+boost-align:x64-windows                           1.90.0#1            Boost align module
+boost-any:x64-windows                             1.90.0#1            Boost any module
+boost-array:x64-windows                           1.90.0#1            Boost array module
+boost-assert:x64-windows                          1.90.0#1            Boost assert module
+boost-atomic:x64-windows                          1.90.0#1            Boost atomic module
+boost-bimap:x64-windows                           1.90.0#1            Boost bimap module
+boost-bind:x64-windows                            1.90.0#1            Boost bind module
+boost-callable-traits:x64-windows                 1.90.0#1            Boost callable_traits module
+boost-chrono:x64-windows                          1.90.0#1            Boost chrono module
+boost-circular-buffer:x64-windows                 1.90.0#1            Boost circular_buffer module
+boost-cmake:x64-windows                           1.90.0#1            Boost cmake module
+boost-compute:x64-windows                         1.90.0#1            Boost compute module
+boost-concept-check:x64-windows                   1.90.0#1            Boost concept_check module
+boost-config:x64-windows                          1.90.0#1            Boost config module
+boost-container-hash:x64-windows                  1.90.0#1            Boost container_hash module
+boost-container:x64-windows                       1.90.0#1            Boost container module
+boost-conversion:x64-windows                      1.90.0#1            Boost conversion module
+boost-core:x64-windows                            1.90.0#1            Boost core module
+boost-crc:x64-windows                             1.90.0#1            Boost crc module
+boost-date-time:x64-windows                       1.90.0#1            Boost date_time module
+boost-describe:x64-windows                        1.90.0#1            Boost describe module
+boost-detail:x64-windows                          1.90.0#1            Boost detail module
+boost-dynamic-bitset:x64-windows                  1.90.0#1            Boost dynamic_bitset module
+boost-endian:x64-windows                          1.90.0#1            Boost endian module
+boost-exception:x64-windows                       1.90.0#1            Boost exception module
+boost-filesystem:x64-windows                      1.90.0#1            Boost filesystem module
+boost-foreach:x64-windows                         1.90.0#1            Boost foreach module
+boost-format:x64-windows                          1.90.0#1            Boost format module
+boost-function-types:x64-windows                  1.90.0#1            Boost function_types module
+boost-function:x64-windows                        1.90.0#1            Boost function module
+boost-functional:x64-windows                      1.90.0#1            Boost functional module
+boost-fusion:x64-windows                          1.90.0#1            Boost fusion module
+boost-geometry:x64-windows                        1.90.0#1            Boost geometry module
+boost-graph:x64-windows                           1.90.0#1            Boost graph module
+boost-headers:x64-windows                         1.90.0#1            Boost headers module
+boost-heap:x64-windows                            1.90.0#1            Boost heap module
+boost-integer:x64-windows                         1.90.0#1            Boost integer module
+boost-interval:x64-windows                        1.90.0#1            Boost interval module
+boost-intrusive:x64-windows                       1.90.0#1            Boost intrusive module
+boost-io:x64-windows                              1.90.0#1            Boost io module
+boost-iostreams:x64-windows                       1.90.0#1            Boost iostreams module
+boost-iostreams[bzip2]:x64-windows                                    Support bzip2 filters
+boost-iostreams[lzma]:x64-windows                                     Support LZMA/xz filters
+boost-iostreams[zlib]:x64-windows                                     Support zlib filters
+boost-iostreams[zstd]:x64-windows                                     Support zstd filters
+boost-iterator:x64-windows                        1.90.0#1            Boost iterator module
+boost-lambda:x64-windows                          1.90.0#1            Boost lambda module
+boost-lexical-cast:x64-windows                    1.90.0#1            Boost lexical_cast module
+boost-logic:x64-windows                           1.90.0#1            Boost logic module
+boost-math:x64-windows                            1.90.0#1            Boost math module
+boost-move:x64-windows                            1.90.0#1            Boost move module
+boost-mp11:x64-windows                            1.90.0#1            Boost mp11 module
+boost-mpl:x64-windows                             1.90.0#1            Boost mpl module
+boost-multi-array:x64-windows                     1.90.0#1            Boost multi_array module
+boost-multi-index:x64-windows                     1.90.0#1            Boost multi_index module
+boost-multiprecision:x64-windows                  1.90.0#1            Boost multiprecision module
+boost-numeric-conversion:x64-windows              1.90.0#1            Boost numeric_conversion module
+boost-optional:x64-windows                        1.90.0#1            Boost optional module
+boost-parameter:x64-windows                       1.90.0#1            Boost parameter module
+boost-phoenix:x64-windows                         1.90.0#1            Boost phoenix module
+boost-polygon:x64-windows                         1.90.0#1            Boost polygon module
+boost-pool:x64-windows                            1.90.0#1            Boost pool module
+boost-predef:x64-windows                          1.90.0#1            Boost predef module
+boost-preprocessor:x64-windows                    1.90.0#1            Boost preprocessor module
+boost-program-options:x64-windows                 1.90.0#1            Boost program_options module
+boost-property-map:x64-windows                    1.90.0#1            Boost property_map module
+boost-property-tree:x64-windows                   1.90.0#1            Boost property_tree module
+boost-proto:x64-windows                           1.90.0#1            Boost proto module
+boost-ptr-container:x64-windows                   1.90.0#1            Boost ptr_container module
+boost-qvm:x64-windows                             1.90.0#1            Boost qvm module
+boost-random:x64-windows                          1.90.0#1            Boost random module
+boost-range:x64-windows                           1.90.0#1            Boost range module
+boost-ratio:x64-windows                           1.90.0#1            Boost ratio module
+boost-rational:x64-windows                        1.90.0#1            Boost rational module
+boost-regex:x64-windows                           1.90.0#1            Boost regex module
+boost-scope:x64-windows                           1.90.0#1            Boost scope module
+boost-serialization:x64-windows                   1.90.0#1            Boost serialization module
+boost-smart-ptr:x64-windows                       1.90.0#1            Boost smart_ptr module
+boost-spirit:x64-windows                          1.90.0#1            Boost spirit module
+boost-static-assert:x64-windows                   1.90.0#1            Boost static_assert module
+boost-stl-interfaces:x64-windows                  1.90.0#1            Boost stl_interfaces module
+boost-system:x64-windows                          1.90.0#1            Boost system module
+boost-thread:x64-windows                          1.90.0#1            Boost thread module
+boost-throw-exception:x64-windows                 1.90.0#1            Boost throw_exception module
+boost-tokenizer:x64-windows                       1.90.0#1            Boost tokenizer module
+boost-tti:x64-windows                             1.90.0#1            Boost tti module
+boost-tuple:x64-windows                           1.90.0#1            Boost tuple module
+boost-type-index:x64-windows                      1.90.0#1            Boost type_index module
+boost-type-traits:x64-windows                     1.90.0#1            Boost type_traits module
+boost-typeof:x64-windows                          1.90.0#1            Boost typeof module
+boost-ublas:x64-windows                           1.90.0#1            Boost ublas module
+boost-uninstall:x64-windows                       1.90.0#1            Internal vcpkg port used to uninstall Boost
+boost-units:x64-windows                           1.90.0#1            Boost units module
+boost-unordered:x64-windows                       1.90.0#1            Boost unordered module
+boost-utility:x64-windows                         1.90.0#1            Boost utility module
+boost-uuid:x64-windows                            1.90.0#1            Boost uuid module
+boost-variant2:x64-windows                        1.90.0#1            Boost variant2 module
+boost-variant:x64-windows                         1.90.0#1            Boost variant module
+boost-winapi:x64-windows                          1.90.0#1            Boost winapi module
+boost-xpressive:x64-windows                       1.90.0#1            Boost xpressive module
+brotli:x64-windows                                1.2.0               a generic-purpose lossless compression algorithm...
+bzip2:x64-windows                                 1.0.8#6             bzip2 is a freely available, patent free, high-q...
+bzip2[tool]:x64-windows                                               Builds bzip2 executable
+cgal:x64-windows                                  6.1.1               The Computational Geometry Algorithms Library (C...
+cryptopp:x64-windows                              2026-03-02          Crypto++ is a free C++ class library of cryptogr...
+curl:x64-windows                                  8.19.0              A library for transferring data with URLs
+curl[non-http]:x64-windows                                            Enables protocols beyond HTTP/HTTPS/HTTP2/HTTP3
+curl[ssl]:x64-windows                                                 Default SSL / TLS implementation.
+curl[sspi]:x64-windows                                                SSPI support
+date:x64-windows                                  3.0.4               A date and time library based on the C++17 <chro...
+egl-registry:x64-windows                          2025-05-27          EGL API and Extension Registry
+expat:x64-windows                                 2.7.4               XML parser library written in C
+exprtk:x64-windows                                0.0.3               Simple to use, easy to integrate and extremely e...
+fast-float:x64-windows                            8.2.4               Fast and exact implementation of the C++ from_ch...
+fmt:x64-windows                                   12.1.0              {fmt} is an open-source formatting library provi...
+freeglut:x64-windows                              3.8.0               A free OpenGL utility toolkit, the open-sourced ...
+freetype:x64-windows                              2.13.3              A library to render fonts.
+freetype[brotli]:x64-windows                                          Support decompression of WOFF2 streams
+freetype[bzip2]:x64-windows                                           Support bzip2 compressed fonts.
+freetype[png]:x64-windows                                             Support PNG compressed OpenType embedded bitmaps.
+freetype[zlib]:x64-windows                                            Use zlib instead of internal library for DEFLATE
+freexl:x64-windows                                2.0.0#2             FreeXL is an open source library to extract vali...
+gdal:x64-windows                                  3.12.3              The Geographic Data Abstraction Library for read...
+gdal[curl]:x64-windows                                                Enable CURL network support
+gdal[expat]:x64-windows                                               Use EXPAT library
+gdal[geos]:x64-windows                                                Enable GEOS support
+gdal[gif]:x64-windows                                                 Enable GIF support
+gdal[hdf5]:x64-windows                                                Enable HDF5 support
+gdal[iconv]:x64-windows                                               Use iconv library
+gdal[jpeg]:x64-windows                                                Use JPEG compression library
+gdal[lerc]:x64-windows                                                Enable LERC support
+gdal[libkml]:x64-windows                                              Enable the LibKML driver
+gdal[libspatialite]:x64-windows                                       Create or update SpatiaLite databases using libs...
+gdal[libxml2]:x64-windows                                             Use LibXML2 library
+gdal[lzma]:x64-windows                                                Use LZMA library
+gdal[netcdf]:x64-windows                                              Enable NetCDF support
+gdal[openjpeg]:x64-windows                                            Use OpenJPEG library
+gdal[openssl]:x64-windows                                             Use OpenSSL library
+gdal[pcre2]:x64-windows                                               Enable PCRE2 support for sqlite3
+gdal[png]:x64-windows                                                 Use PNG compression library
+gdal[postgresql]:x64-windows                                          Enable PostgreSQL support
+gdal[qhull]:x64-windows                                               Use QHULL library
+gdal[recommended-features]:x64-windows                                Features that are explicity marked as recommende...
+gdal[sqlite3]:x64-windows                                             Enable SQLite3 support
+gdal[webp]:x64-windows                                                Enable WEBP support
+gdal[zstd]:x64-windows                                                Use ZSTD library
+geos:x64-windows                                  3.14.1              Geometry Engine Open Source
+giflib:x64-windows                                5.2.2#2             A library for reading and writing gif images.
+glm:x64-windows                                   1.0.3               OpenGL Mathematics (GLM)
+gmp:x64-windows                                   6.3.0#3             The GNU Multiple Precision Arithmetic Library
+gtest:x64-windows                                 1.17.0#2            Google Testing and Mocking Framework
+hdf5:x64-windows                                  2.1.1               HDF5 is a data model, library, and file format f...
+hdf5[cpp]:x64-windows                                                 Builds cpp lib
+hdf5[hl]:x64-windows                                                  Build HIGH Level HDF5 Library
+hdf5[szip]:x64-windows                                                Build with szip
+hdf5[zlib]:x64-windows                                                Build with zlib
+imath:x64-windows                                 3.2.2               Imath is a C++ and Python library of 2D and 3D v...
+jbig2dec:x64-windows                              0.20                a decoder library and example utility implementi...
+jbigkit:x64-windows                               2.1#7               A software implementation of the JBIG1 data comp...
+json-c:x64-windows                                0.18-20240915       A JSON implementation in C
+lerc:x64-windows                                  4.0.4               An open-source image or raster format which supp...
+libaec:x64-windows                                1.1.6               Adaptive Entropy Coding library
+libdeflate:x64-windows                            1.25                libdeflate is a library for fast, whole-buffer D...
+libdeflate[compression]:x64-windows                                   Support compression
+libdeflate[decompression]:x64-windows                                 Support decompression
+libdeflate[gzip]:x64-windows                                          Support the gzip format
+libdeflate[zlib]:x64-windows                                          Support the zlib format
+libgeotiff:x64-windows                            1.7.4               Libgeotiff is an open source library on top of l...
+libiconv:x64-windows                              1.18#3              iconv() text conversion.
+libjpeg-turbo:x64-windows                         3.1.3               libjpeg-turbo is a JPEG image codec that uses SI...
+libkml:x64-windows                                1.3.0#14            Reference implementation of OGC KML 2.2
+liblzma:x64-windows                               5.8.2#1             Compression library with an API similar to that ...
+libpng:x64-windows                                1.6.55              libpng is a library implementing an interface fo...
+libpq:x64-windows                                 18.3                The official database access API of postgresql
+libpq[lz4]:x64-windows                                                Use lz4
+libpq[openssl]:x64-windows                                            support for encrypted client connections and ran...
+libpq[zlib]:x64-windows                                               Use zlib
+libspatialite:x64-windows                         5.1.0#6             SpatiaLite is an open source library intended to...
+libspatialite[freexl]:x64-windows                                     FreeXL spreadsheet file support.
+libwebp:x64-windows                               1.6.0#2             WebP codec: library to encode and decode images ...
+libwebp[libwebpmux]:x64-windows                                       Build the libwebpmux library
+libwebp[nearlossless]:x64-windows                                     Enable near-lossless encoding
+libwebp[simd]:x64-windows                                             Enable any SIMD optimization.
+libwebp[unicode]:x64-windows                                          Build Unicode executables. (Adds definition UNIC...
+libxml2:x64-windows                               2.15.2              Libxml2 is the XML C parser and toolkit develope...
+libxml2[iconv]:x64-windows                                            Add ICONV support
+libxml2[zlib]:x64-windows                                             Use ZLib
+lz4:x64-windows                                   1.10.0              Lossless compression algorithm, providing compre...
+minizip:x64-windows                               1.3.1#1             Minizip zip file manipulation library
+mpfr:x64-windows                                  4.2.2#1             The MPFR library is a C library for multiple-pre...
+ms-gsl:x64-windows                                4.2.1               Microsoft implementation of the Guidelines Suppo...
+muparser:x64-windows                              2.3.5               Fast math parser library
+nanosvg:x64-windows                               2023-12-29          NanoSVG is a simple stupid single-header-file SV...
+netcdf-c:x64-windows                              4.9.3#3             A set of self-describing, machine-independent da...
+netcdf-c[dap]:x64-windows                                             DAP remote access client support
+netcdf-c[nczarr]:x64-windows                                          NCZarr cloud storage access support
+netcdf-c[netcdf-4]:x64-windows                                        netCDF-4 support
+nlohmann-json:x64-windows                         3.12.0#2            JSON for Modern C++
+openblas:x64-windows                              0.3.29              OpenBLAS is an optimized BLAS library based on G...
+openexr:x64-windows                               3.4.7               OpenEXR is a high dynamic-range (HDR) image file...
+opengl-registry:x64-windows                       2026-01-26          OpenGL, OpenGL ES, and OpenGL ES-SC API and Exte...
+opengl:x64-windows                                2022-12-04#3        Open Graphics Library (OpenGL)[3][4][5] is a cro...
+openjpeg:x64-windows                              2.5.4               OpenJPEG is an open-source JPEG 2000 codec writt...
+openjph:x64-windows                               0.26.3              Open-source implementation of JPEG2000 Part-15 (...
+openssl:x64-windows                               3.6.1#3             OpenSSL is an open source project that provides ...
+pcre2:x64-windows                                 10.47               Regular Expression pattern matching using the sa...
+pcre2[jit]:x64-windows                                                Enable support for Just-In-Time compiling regex ...
+pcre2[platform-default-features]:x64-windows                          Enable default features
+pkgconf:x64-windows                               2.5.1#4             pkgconf is a program which helps to configure co...
+podofo:x64-windows                                1.0.3               PoDoFo is a library to work with the PDF file fo...
+podofo[fontmanager]:x64-windows                                       Enable font manager
+poppler:x64-windows                               25.7.0              A PDF rendering library
+poppler[font-configuration]:x64-windows                               Defaut font configuration backend
+poppler[zlib]:x64-windows                                             Use zlib to uncompress flate streams (not totall...
+proj:x64-windows                                  9.8.0               PROJ library for cartographic projections
+proj[net]:x64-windows                                                 Enable network support
+proj[tiff]:x64-windows                                                Enable TIFF support to read some grids
+qhull:x64-windows                                 8.0.2#6             computes the convex hull, Delaunay triangulation...
+sail:x64-windows                                  0.9.10              The missing small and fast image decoding librar...
+sail[gif]:x64-windows                                                 Enable GIF codec
+sail[highest-priority-codecs]:x64-windows                             Enable highest priority codecs such as JPEG or PNG
+sail[jbig]:x64-windows                                                Enable JBIG codec
+sail[jpeg]:x64-windows                                                Enable JPEG codec
+sail[png]:x64-windows                                                 Enable PNG codec
+sail[svg]:x64-windows                                                 Enable SVG codec
+sail[webp]:x64-windows                                                Enable WEBP codec
+sdl2:x64-windows                                  2.32.10             Simple DirectMedia Layer is a cross-platform dev...
+sfcgal:x64-windows                                2.2.0               sfcgal is a C++ wrapper library around CGAL with...
+snappy:x64-windows                                1.2.2#1             A fast compressor/decompressor.
+spdlog:x64-windows                                1.17.0              Very fast, header-only/compiled, C++ logging lib...
+spdlog[fmt]:x64-windows                                               Use fmt library
+spdlog[tz-offset]:x64-windows                                         Omit %z timezone offset (use on platforms withou...
+sqlite3:x64-windows                               3.52.0              SQLite is a software library that implements a s...
+sqlite3[json1]:x64-windows                                            Enable JSON functionality for sqlite3
+sqlite3[rtree]:x64-windows                                            Enable the RTREE extension
+sqlite3[tool]:x64-windows                                             Build sqlite3 executable
+tcl:x64-windows                                   core-9-0-a1#8       Tcl provides a powerful platform for creating in...
+tiff:x64-windows                                  4.7.1               A library that supports the manipulation of TIFF...
+tiff[jpeg]:x64-windows                                                Support JPEG compression in TIFF image files
+tiff[lzma]:x64-windows                                                Support LZMA compression in TIFF image files
+tiff[zip]:x64-windows                                                 Support ZIP/deflate compression in TIFF image files
+tiledb:x64-windows                                2.30.1              Cloud-native embeddable array storage engine
+tinyxml2:x64-windows                              11.0.0              A simple, small, efficient, C++ XML parser
+uriparser:x64-windows                             1.0.0               Strictly RFC 3986 compliant URI parsing and hand...
+utf8proc:x64-windows                              2.11.3              Clean C library for processing UTF-8 Unicode data.
+utfcpp:x64-windows                                4.0.9               UTF-8 with C++ in a Portable Way
+vcpkg-boost:x64-windows                           2025-03-29
+vcpkg-cmake-config:x64-windows                    2024-05-23
+vcpkg-cmake-get-vars:x64-windows                  2025-05-29
+vcpkg-cmake:x64-windows                           2024-04-23
+vcpkg-gfortran:x64-windows                        3#3                 Metaport to install gfortran dependencies from m...
+vcpkg-make:x64-windows                            2026-01-01
+vcpkg-pkgconfig-get-modules:x64-windows           2024-04-03
+vcpkg-tool-meson:x64-windows                      1.9.0#4             Meson build system
+xerces-c:x64-windows                              3.3.0#1             Xerces-C++ is a XML parser, for parsing, generat...
+xerces-c[network]:x64-windows                                         Network support
+zlib:x64-windows                                  1.3.1               A compression library
+zstd:x64-windows                                  1.5.7               Zstandard - Fast real-time compression algorithm
