@@ -1,4 +1,6 @@
 vcpkg install arrow-adbc
+ms-ifc-sdk
+
 
 atl:x64-windows                                   0#1                 A stub package that ensures Visual Studio has Ac...
 ayush272002-dotenv:x64-windows                    1.0.2               A modern C++23 header-only library for loading a...
