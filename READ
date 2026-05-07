@@ -6,6 +6,8 @@ install ms-ifc-sdk
 vcpkg install ocilib
 https://github.com/pageldev/libOpenDRIVE.git
 https://github.com/duckdb/duckdb.git
+https://github.com/AcademySoftwareFoundation/openexr.git
+
 
 atl:x64-windows                                   0#1                 A stub package that ensures Visual Studio has Ac...
 ayush272002-dotenv:x64-windows                    1.0.2               A modern C++23 header-only library for loading a...
