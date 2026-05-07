@@ -3,6 +3,7 @@ ms-ifc-sdk
 https://github.com/morningman/hdfs-client-cpp.git
 win_bison -W -d -o D:\develope\thirdparty\swig\Source\CParse\parser.c D:\develope\thirdparty\swig\Source\CParse\parser.y
 install ms-ifc-sdk
+vcpkg install ocilib
 
 atl:x64-windows                                   0#1                 A stub package that ensures Visual Studio has Ac...
 ayush272002-dotenv:x64-windows                    1.0.2               A modern C++23 header-only library for loading a...
